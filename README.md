@@ -1,7 +1,7 @@
-# Alliance-against-humiliating-China
-反辱华同盟手册
-
+# 反辱华同盟手册
 pdf 文件[*看这里*](latex/manual.pdf)
+
+latex文件*[看这里](latex/manual.tex)*
 
 ## 1. 总章
 
